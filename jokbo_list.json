@@ -1624,11 +1624,11 @@
         "question": "빗살무늬를 사용한 시기는?"
     },
     {
-        "answer": "O",
+        "answer": "X",
         "question": "빙하가 녹으면 바다의 염분이 증가한다."
     },
     {
-        "answer": "X로 추정",
+        "answer": "O",
         "question": "빙하의 생성은 염분을 증가시킨다"
     },
     {
