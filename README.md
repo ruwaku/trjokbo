@@ -8,7 +8,7 @@
 |README.md|설명 문서(해당 문서)|
 |[jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/jokbo_list.json)|퀴즈 데이터 파일|
 #### jokbo_list.json
-[{"question": "띄어쓰기및따옴표가없는퀴즈내용", "answer": "퀴즈 정답", "old_question": "띄어쓰기 및 따옴표가 없는 퀴즈 내용"}, ...]
+[{"question": "퀴즈내용", "answer": "퀴즈 정답"}, ...]
 ## 데이터 수정
 ### 데이터 수정 기록 확인
 [Commit](https://github.com/ruwaku/trjokbo/commits/master)에서 확인 가능합니다.
