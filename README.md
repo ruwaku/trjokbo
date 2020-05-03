@@ -1,11 +1,14 @@
 # 테일즈런너 가정의 달 퀴즈 데이터
 테일즈런너 가정의 달 퀴즈 이벤트 (4월29일 ~ 5월13일 점검 전)의 퀴즈 데이터입니다.
 [테일즈런너 퀴즈 족보](https://trhwiya.ga/tr/jokbo)에서 해당 데이터를 사용합니다.
-## 파일 목록
+## 파일
+### 파일 목록
 |파일|설명|
-|-|-|
+|--------|--------|
 |README.md|설명 문서(해당 문서)|
-|[jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/jokbo_list.json)|퀴즈 데이터|
+|[jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/jokbo_list.json)|퀴즈 데이터 파일|
+#### jokbo_list.json
+[{"question": "띄어쓰기및따옴표가없는퀴즈내용", "answer": "퀴즈 정답", "old_question": "띄어쓰기 및 따옴표가 없는 퀴즈 내용"}, ...]
 ## 데이터 수정
 ### 데이터 수정 기록 확인
 [Commit](https://github.com/ruwaku/trjokbo/commits/master)에서 확인 가능합니다.
