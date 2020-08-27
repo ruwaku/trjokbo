@@ -6,7 +6,8 @@
 |파일|설명|
 |--------|--------|
 |README.md|설명 문서(해당 문서)|
-|[202005_jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/202005_jokbo_list.json)|2020 가정의달 앙리 퀴즈|
+|[202005_jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/202005_jokbo_list.json)|2020 가정의달 앙리 퀴즈 목록|
+|[202005-2_jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/202005-2_jokbo_list.json)|2020 버그찾기 문장 목록|
 ## 데이터 수정
 ### 데이터 수정 기록 확인
 [Commit](https://github.com/ruwaku/trjokbo/commits/master)에서 확인 가능합니다.
@@ -16,4 +17,4 @@
 ## 고마운 사람들
  - 테일즈런너 공식카페 "주접"님
  - 테일즈런너 공식카페 "맛뚜기"님
- - 테일즈런너 공식카페 모든 회원분들
+ - 테일즈 런너들
