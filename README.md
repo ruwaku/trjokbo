@@ -6,8 +6,8 @@
 |파일|설명|
 |--------|--------|
 |README.md|설명 문서(해당 문서)|
-|[202005_jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/202005_jokbo_list.json)|2020 가정의달 앙리 퀴즈 목록|
-|[202005-2_jokbo_list.json](https://github.com/ruwaku/trjokbo/blob/master/202005-2_jokbo_list.json)|2020 버그찾기 문장 목록|
+|[henry_quiz.json](https://github.com/ruwaku/trjokbo/blob/master/henry_quiz.json)|2020 가정의달 앙리 퀴즈 목록|
+|[find_bug.json](https://github.com/ruwaku/trjokbo/blob/master/find_bug.json)|2020 버그찾기 문장 목록|
 ## 데이터 수정
 ### 데이터 수정 기록 확인
 [Commit](https://github.com/ruwaku/trjokbo/commits/master)에서 확인 가능합니다.
